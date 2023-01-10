@@ -86,7 +86,7 @@ export default function About() {
                 關於本站
               </Typography>
               <Typography variant="body2" component="p">
-                網頁程式設計助教系統，作為課程作業demo輔助，使用{" "}
+                課程助教系統，作為作業demo輔助，使用{" "}
                 <code>React</code> 和 <code>Material UI</code> 開發。
               </Typography>
               <ImageList
@@ -120,7 +120,7 @@ export default function About() {
                 color="primary"
                 startIcon={<Mail />}
               >
-                聯絡助教
+                聯絡開發者
               </Button>
             </CardActions>
           </Card>

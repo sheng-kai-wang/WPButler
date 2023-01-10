@@ -132,7 +132,7 @@ export default function Header() {
                 history.push("/");
               }}
             >
-              Web Programming Butler
+              Demo Butler
             </Typography>
           </Tooltip>
         </Toolbar>

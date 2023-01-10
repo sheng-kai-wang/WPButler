@@ -45,7 +45,7 @@ export default function Home() {
           <Card className={classes.card}>
             <CardContent>
               <Typography variant="h4" component="h2">
-                網頁程式設計助教系統
+              課程助教系統
               </Typography>
             </CardContent>
             <CardActions>
